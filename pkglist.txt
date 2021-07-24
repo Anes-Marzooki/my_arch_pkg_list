@@ -1,6 +1,6 @@
-accerciser
 accountsservice
 adapta-gtk-theme
+alacritty
 alsa-firmware
 alsa-lib
 alsa-plugins
@@ -28,7 +28,6 @@ boost
 boost-libs
 broadcom-wl
 btrfs-progs
-catfish
 catimg
 cheese
 chromium
@@ -61,7 +60,6 @@ eog
 epydoc
 ethtool
 evince
-evolution
 exfat-utils
 expac
 f2fs-tools
@@ -82,14 +80,12 @@ galculator
 gcc
 gcc-d
 gdm
-geany
 gedit
 ghex
 ghostscript
 gimp
 gimp-help-en
 git
-glade
 glances
 gmrun
 gnome-backgrounds
@@ -101,7 +97,6 @@ gnome-characters
 gnome-clocks
 gnome-code-assistance
 gnome-color-manager
-gnome-contacts
 gnome-control-center
 gnome-devel-docs
 gnome-disk-utility
@@ -118,6 +113,7 @@ gnome-photos
 gnome-recipes
 gnome-remote-desktop
 gnome-screenshot
+gnome-shell-extension-appindicator
 gnome-shell-extensions
 gnome-software
 gnome-software-packagekit-plugin
@@ -156,7 +152,6 @@ gtop
 gts
 gufw
 gutenprint
-guvcview
 gvfs
 gvfs-afc
 gvfs-goa
@@ -170,8 +165,10 @@ haveged
 hddtemp
 hdparm
 htop
+httpie
 hwinfo
 imagemagick
+inkscape
 intel-ucode
 intltool
 ipw2100-fw
@@ -244,6 +241,7 @@ nautilus
 nbd
 ndisc6
 neofetch
+neovim
 netctl
 netpbm
 network-manager-applet
@@ -269,7 +267,6 @@ openresolv
 opensp
 openssh
 openvpn
-orca
 os-prober
 otf-hermit
 p7zip
@@ -278,6 +275,7 @@ parted
 partimage
 patch
 pavucontrol
+pdfcrack
 peek
 perl-file-which
 perl-sgmls
@@ -289,7 +287,6 @@ picom
 pkgconf
 playerctl
 playonlinux
-polari
 polkit
 polkit-gnome
 poppler-glib
@@ -298,7 +295,6 @@ powerline
 powertop
 ppp
 pptpclient
-pragha
 pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
@@ -361,7 +357,6 @@ sdparm
 seahorse
 sg3_utils
 sgml-common
-simple-scan
 simplescreenrecorder
 smartmontools
 speedtest-cli
@@ -374,13 +369,14 @@ syslinux
 sysprof
 system-config-printer
 tcpdump
-telegram-desktop
-termite
+terminator
+terminus-font
 testdisk
 texinfo
 texlive-bin
 texlive-core
 texlive-latexextra
+tilix
 tint2
 tk
 tlp
@@ -390,13 +386,13 @@ tracker
 tracker-miners
 tracker3-miners
 tree
-ttf-anonymous-pro
 ttf-bitstream-vera
 ttf-dejavu
 ttf-droid
 ttf-font-awesome
 ttf-hack
 ttf-inconsolata
+ttf-input
 ttf-jetbrains-mono
 ttf-liberation
 ttf-roboto
@@ -423,7 +419,9 @@ w3m
 webkit2gtk
 wget
 which
+wine
 wine-mono
+winetricks
 wireless-regdb
 wireless_tools
 wmctrl
@@ -496,4 +494,5 @@ yelp
 youtube-dl
 zenity
 zip
+zsh
 zziplib
